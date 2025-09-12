@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 style="font-family: Poppins ExtraBold; text-align: center; font-size: 50px"> I'm Willie </h1>
 <center>
-3rd-Year Student, Bachelor of Science in Information Technology at PUP Sta.Mesa Manila, Philippines
+4th Student, Bachelor of Science in Information Technology at PUP Sta.Mesa Manila, Philippines
 </center>
 
 <!--
